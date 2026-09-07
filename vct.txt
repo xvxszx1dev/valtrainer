@@ -1,0 +1,98 @@
+BBL VS FF - EMEA STAGE 2 P.O - DAY4 (귀찮음)
+ABYSS   /   SUMMIT
+
+ASTRA   /   OMEN
+WAYLAY  /   YORU
+SOVA    /   SOVA
+YORU    /   WAYLAY
+HARBOR  /   CYPER
+OMEN    /   CYPER
+CYPER   /   WAYLAY
+WAYLAY  /   SOVA
+SOVA    /   YORU
+YORU    /   OMEN
+======================================================
+G2 VS ENVY (2:1) - AMERICAS STAGE 2 P.I - DAY9
+LOTUS   /   ASCENT  /   HAVEN
+
+G2
+RAZE    /   YORU    /   NEON
+VIPER   /   VYSE    /   YORU
+OMEN    /   OMEN    /   OMEN
+SKYE    /   CHAMBER /   FADE
+VYSE    /   SOVA    /   CHAMBER
+
+ENVY
+NEON    /   NEON    /   NEON
+FADE    /   OMEN    /   SOVA
+VIPER   /   PHOENIX /   ASTRA
+OMEN    /   CHAMBER /   PHOENIX
+CHAMBER /   SOVA    /   CHAMBER
+======================================================
+KRU VS EG (1:2) - AMERICAS STAGE 2 P.I - DAY9 
+LOTUS   /   SUNSET  /   SUMMIT
+
+KRU
+FADE    /   FADE    /   VIPER  
+NEON    /   NEON    /   NEON
+OMEN    /   KAY/O   /   SOVA
+CHAMBER /   CHAMBER /   CYPER
+VIPER   /   OMEN    /   OMEN
+
+EG
+VIPER   /   VIPER   /   VIPER 
+RAZE    /   NEON    /   NEON
+FADE    /   SOVA    /   SOVA
+CYPER   /   CYPER   /   CYPER
+OMEN    /   OMEN    /   OMEN
+======================================================
+TL VS EP (2:0) - EMEA STAGE 2 PLAYOFFS STAGE
+LOTUS   /   ABYSS
+
+TL
+RAZE    /   JETT
+JETT    /   OMEN
+CYPER   /   TEJO
+OMEN    /   SOVA
+FADE    /   VYSE
+
+EP
+NEON    /   SOVA
+VYSE    /   JETT
+SKYE    /   HARBOR
+OMEN    /   ASTRA
+RAZE    /   PHOENIX
+======================================================
+T1 VS DFM (2:0) - PACIFIC STAGE 2 P.I - DAY9
+ASCENT  /   HAVEN
+
+T1
+YORU    /   YORU
+SOVA    /   SOVA
+OMEN    /   OMEN
+VYSE    /   CYPER
+JETT    /   NEON
+
+DFM
+CYPER   /   CYPER
+SOVA    /   SKYE
+NEON    /   NEON
+JETT    /   JETT
+OMEN    /   OMEN
+======================================================
+SP VS ONG (1:2) - PACIFIC STAGE 2 P.I - DAY9
+ASCENT  /   HAVEN
+
+SP
+SAGE    /   SOVA
+OMEN    /   VIPER
+SOVA    /   OMEN
+NEON    /   NEON
+CYPER   /   KILLJOY
+
+ONG
+NEON    /   PHOENIX
+OMEN    /   NEON
+SOVA    /   SOVA
+PHOENIX /   CHAMBER
+CYPER   /   OMEN
